@@ -1,7 +1,8 @@
 def hello(to='world'):
-  print('Hello,'to)
+    print('Hello,', to)
 
-name = input("What is Your Name? " to)
+hello()
+name = input("What is Your Name? ")
 
 # Calling function
 hello(name)
