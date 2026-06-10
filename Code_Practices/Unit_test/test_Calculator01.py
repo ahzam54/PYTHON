@@ -1,5 +1,6 @@
 from Calculator import square
 
+# using pytest in terminal to test the test code .
 
 # after installing pytest
 def test_square():

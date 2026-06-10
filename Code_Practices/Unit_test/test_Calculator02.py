@@ -2,6 +2,7 @@ from Calculator import square
 
 
 # after installing pytest
+# using pytest in terminal to test the test code .
 def test_positive():
     assert square(2) == 4
     assert square(3) == 9
